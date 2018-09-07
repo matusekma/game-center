@@ -1,0 +1,23 @@
+{
+  "name": "game-center",
+  "version": "1.0.0",
+  "description": "Game Center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matusekma/game-center.git"
+  },
+  "author": "Marton Matusek",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/matusekma/game-center/issues"
+  },
+  "homepage": "https://github.com/matusekma/game-center#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
