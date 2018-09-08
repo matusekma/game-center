@@ -43,6 +43,7 @@ function addGame(gameName, w, h){
     frame.width = width + "px";
     frame.id = "frame";
     $("#middle").append(frame);
+    frame.contentWindow.focus();
 }
 
 
